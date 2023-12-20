@@ -6,7 +6,7 @@ on:
         - "*"
 
 jobs:
-  relase:
+  release:
     strategy:
       matrix:
         target:
